@@ -1,0 +1,31 @@
+p{
+    font-weight: bold;
+    font-size: larger;
+}
+
+#top{
+    text-decoration: underline;
+}
+
+body{
+    background-color:snow;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 5px solid black;
+    margin: 20px;
+    padding: 20px;
+    text-align:center; 
+}
+
+ol{
+    list-style-position: inside;
+    display: inline-block; 
+    text-align: left; 
+    
+}
+
+ul{
+    list-style-position: inside;
+    display: inline-block; 
+    text-align: left; 
+}
+
